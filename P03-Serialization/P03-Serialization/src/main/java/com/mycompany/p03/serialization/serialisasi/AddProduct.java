@@ -11,8 +11,8 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author dodi
- */
+ * @author LENOVO
+  */
 public class AddProduct extends javax.swing.JDialog {
     DefaultTableModel model;
     /**
